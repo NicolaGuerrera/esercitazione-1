@@ -14,6 +14,7 @@ function draw() {
   textSize(80);
   textAlign("center");
   text("Nicola", width / 2, height / 2);
+  fill("red");
 }
 
 function windowResized() {
