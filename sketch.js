@@ -12,8 +12,8 @@ function draw() {
   rect(width - s, height - s, s, s);
 
   textSize(80);
-  textAlign("center")
-  text("Nicola"), width / 2, height / 2);
+  textAlign("center");
+  text("Nicola", width / 2, height / 2);
 }
 
 function windowResized() {
